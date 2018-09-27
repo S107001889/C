@@ -1,5 +1,5 @@
 Question 1:#include <stdio.h>
-include 是何意義??
+include 是何意義?? 指示詞，將定義加入原始檔
 stdio有何用途?
 std英文全名為何?
 i是何意義??o是何意義??
