@@ -1,4 +1,4 @@
-...      1
+#    #1
 root@kali:~/4070E052# gedit C300_1.c
 root@kali:~/4070E052# gcc C300_1.c -o C300_1 
 root@kali:~/4070E052# ./C300_1
