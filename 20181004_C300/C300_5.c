@@ -1,0 +1,15 @@
+/* prog2_3, printf()ㄧ计絤策 */
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+    printf("畍и琌獺惩\n");
+   printf("иC300肈ぇ5\n");
+   printf("   \n"); 
+   int num=5;	/* ﹚竡跑计 num砞2 */
+   printf("I have %d cats.\n",num);   /* ㊣printf()ㄧ计 */
+   system("pause");
+   return 0;
+}
+
+
