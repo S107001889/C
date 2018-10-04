@@ -1,4 +1,5 @@
-      root@kali:~/4070E052# gedit C300_1.c
+   #1
+root@kali:~/4070E052# gedit C300_1.c
 root@kali:~/4070E052# gcc C300_1.c -o C300_1 
 root@kali:~/4070E052# ./C300_1
 恩師好，我是王信凱
@@ -7,3 +8,5 @@ Hello C!
 Hello World!
 root@kali:~/4070E052# file C300_1
 C300_1: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=3b73e0ac824f14c8b79a78d4f806eb86cf19d7f8, not stripped
+
+
