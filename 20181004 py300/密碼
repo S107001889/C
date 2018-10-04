@@ -1,0 +1,28 @@
+root@kali:~/4070E052# gedit pyC300_1.py
+root@kali:~/4070E052# python3 pyC300_1.py
+Guess a magic number between 0 and 100
+Enter your guess: 4
+Your guess is too low
+Enter your guess: 4
+Your guess is too low
+Enter your guess: 5
+Your guess is too low
+Enter your guess: 8
+Your guess is too low
+Enter your guess: 80
+Your guess is too high
+Enter your guess: 50
+Your guess is too low
+Enter your guess: 67
+Your guess is too low
+Enter your guess: 72
+Your guess is too low
+Enter your guess: 78
+Your guess is too high
+Enter your guess: 75
+Your guess is too high
+Enter your guess: 76
+Your guess is too high
+Enter your guess: 74 
+Yes, the number is 74
+
