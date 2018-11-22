@@ -59,7 +59,7 @@ main()
    printf("%d",total);
 }
 
-用Recursion方式撰寫1+3+…+99的總和
+用Recursion方式撰寫1+5+9+…+401的總和
 A:
 #include <stdio.h>
 #include <stdlib.h>
@@ -89,7 +89,7 @@ int add(int x,int y)
   int total;
   if(y<=1)
      return 1;
-  else return(y+add(x,y-2));
+  else return(y+add(x,y-4));
   
   return 0;
 }
