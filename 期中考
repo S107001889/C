@@ -89,9 +89,9 @@ int add(int x,int y)
   int total;
   if(y<=1)
      return 1;
-  else return(y+add(x,y-4));
+  else total=total+(y+add(x,y-4));
   
-  return 0;
+  return total;
 }
 
 函數設計題:完成底下計算factorial階乘函數fac(n):n!
