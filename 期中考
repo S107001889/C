@@ -14,7 +14,7 @@ main()
     getchar();
 }
 
-1+3+…+99的總和程式設計技術
+1+5+9…+401的總和程式設計技術
 A:
 For:
 #include <stdlib.h> 
